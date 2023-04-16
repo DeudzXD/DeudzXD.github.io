@@ -1,0 +1,5 @@
+= website do deudz
+
+Eu aprendi HTML, CSS e TypeScript.
+Então o site não foi feito mais no Frontpage do Windows XP
+
